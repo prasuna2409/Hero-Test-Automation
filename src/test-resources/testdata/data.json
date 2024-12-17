@@ -1,0 +1,23 @@
+{
+    "searchHero": 
+    {
+      "id": 13,
+      "heroName": "Bombasto",
+      "score": "180"
+    }, 
+    "addHero": 
+     {
+      "heroName": "TopHero",
+      "score": "600"
+     },
+     "deleteHero":
+     {
+      "id": 15,
+      "heroName": "Magneta",
+      "score": "250"
+     },
+     "searchHeroTwo":{
+      "heroNameOne": "Hurricane",
+      "heroNameTwo": "Tornado"
+     }
+}
